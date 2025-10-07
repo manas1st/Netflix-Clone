@@ -113,8 +113,18 @@
             transition: all 0.3s ease;
             backdrop-filter: blur(6px);
             margin-left: 15px;
+
         }
+
         .info-button:hover {
             background: transparent;
             transform: scale(1.05);
+
+        }
+
+        .info-icon {
+            width: 18px;
+            height: 18px;
+            fill: white;
+
         }
