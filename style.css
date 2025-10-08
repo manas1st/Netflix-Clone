@@ -54,9 +54,9 @@
             position: fixed;
         }
 
-        #banner-image {
-            width: 100vw;
-            height: 100vh;
+        #background {
+            width: fit-content;
+            height: 118vh;
             position: relative;
             top: 0;
             left: 0;
