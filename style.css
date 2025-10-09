@@ -55,9 +55,9 @@
         }
 
         #background {
-            width: fit-content;
-            height: 118vh;
-            position: relative;
+            width: 100%;
+            height: fit-content;
+            position: fixed;
             top: 0;
             left: 0;
         }
