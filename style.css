@@ -67,6 +67,7 @@
             top: 170px;
             left: 50px;
             color: white;
+            cursor: default;
         }
 
         .play-button {
